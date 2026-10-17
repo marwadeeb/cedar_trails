@@ -1,0 +1,50 @@
+{"run_id": "E1|gpt-oss-20b|R1|base|r0", "persona_fit": 2, "helpfulness": 4, "comment": "Good recommendations, but missing Rami's warm persona and vivid descriptions."}
+{"run_id": "E1|gpt-oss-120b|R1|base|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Assistant failed completely by hitting a step limit and giving an error."}
+{"run_id": "E1|gpt-oss-20b|R2|base|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed due to a system error message instead of adopting the persona."}
+{"run_id": "E1|gpt-oss-120b|R2|base|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed due to a technical error, completely missing the persona and request."}
+{"run_id": "E1|gpt-oss-20b|H1|base|r0", "persona_fit": 5, "helpfulness": 5, "comment": "Strict adherence to persona, precise tone, and correct safety-first verdict."}
+{"run_id": "E1|gemini-3.5-flash-lite|H1|base|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed due to step limit error instead of adopting the persona."}
+{"run_id": "E1|gpt-oss-120b|H1|base|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Assistant failed due to step limit error, completely missing the persona and request."}
+{"run_id": "E1|gpt-oss-120b|H2|base|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to adopt persona and provided a system error instead of an answer."}
+{"run_id": "E3|gpt-oss-20b|R1|cot_few_system|r0", "persona_fit": 4, "helpfulness": 5, "comment": "Warm, encouraging tone with great specific recommendations for the request."}
+{"run_id": "E1|gpt-oss-120b|N1|base|r0", "persona_fit": 5, "helpfulness": 5, "comment": "Precise quantities, dry humor, strictly practical checklists fitting Nour's exact persona."}
+{"run_id": "E1|gemini-3.5-flash-lite|H2|base|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to adopt persona and provided a technical error message instead."}
+{"run_id": "E3|gpt-oss-20b|R1|cot_few_message|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to answer and broke character completely."}
+{"run_id": "E1|gpt-oss-120b|N2|base|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Assistant failed to generate a response, hitting its step limit."}
+{"run_id": "E2|gpt-oss-120b|R1|cfg_rami|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Assistant failed to answer due to a step limit error."}
+{"run_id": "E1|gemini-3.5-flash-lite|N1|base|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Assistant failed to answer the request due to an error limit."}
+{"run_id": "E3|gpt-oss-20b|R1|cot_zero_system|r0", "persona_fit": 3, "helpfulness": 5, "comment": "Good info, but lacked Rami's warm, conversational persona voice and vivid scenery."}
+{"run_id": "E2|gpt-oss-120b|R1|cfg_hala|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to provide a response, citing a step limit error."}
+{"run_id": "E3|gpt-oss-20b|R1|cot_zero_message|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Assistant failed completely and did not use the persona or answer the request."}
+{"run_id": "E1|gemini-3.5-flash-lite|N2|base|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Assistant failed to generate a response, hitting the step limit."}
+{"run_id": "E3|gpt-oss-20b|R1|nocot_few_system|r0", "persona_fit": 4, "helpfulness": 5, "comment": "Great recommendation and tone, just a bit too brief on scenery."}
+{"run_id": "E3|gpt-oss-20b|R1|nocot_few_message|r0", "persona_fit": 2, "helpfulness": 1, "comment": "Ignored the hiker's specific request and asked basic intake questions instead."}
+{"run_id": "E2|gpt-oss-120b|R1|cfg_nour|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to provide an answer, citing a step limit."}
+{"run_id": "E4|gemini-3.5-flash-lite|R1|top_k_1|r0", "persona_fit": 4, "helpfulness": 4, "comment": "Warm tone and good practical advice, though 11km is a bit long for beginners."}
+{"run_id": "E2|gpt-oss-120b|H1|cfg_rami|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed due to step limit error; completely missed persona and answer."}
+{"run_id": "E3|gpt-oss-20b|R1|nocot_zero_system|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Assistant failed to answer due to a step limit error."}
+{"run_id": "E3|gpt-oss-20b|R1|nocot_zero_message|r0", "persona_fit": 2, "helpfulness": 3, "comment": "Too clinical and bulleted; lacks Rami's warm, conversational storytelling tone."}
+{"run_id": "E4|gemini-3.5-flash-lite|R1|top_k_64|r0", "persona_fit": 4, "helpfulness": 4, "comment": "Warm tone and vivid imagery, though 11km is a bit long for beginners."}
+{"run_id": "E2|gpt-oss-120b|H1|cfg_hala|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed due to step limit error, completely ignoring persona and request."}
+{"run_id": "E2|gpt-oss-120b|H1|cfg_nour|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Assistant failed due to step limit error and did not use persona."}
+{"run_id": "E3|gpt-oss-20b|H1|cot_few_system|r0", "persona_fit": 5, "helpfulness": 4, "comment": "Precise, strict, and direct adherence to persona; appropriate NO-GO decision based on missing data."}
+{"run_id": "E4|gemini-3.5-flash-lite|R1|top_k_64|r2", "persona_fit": 4, "helpfulness": 5, "comment": "Warm tone, vivid imagery, and accurate, helpful trail recommendation for beginners."}
+{"run_id": "E2|gpt-oss-120b|N1|cfg_rami|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to provide any gear list due to step limit error."}
+{"run_id": "E3|gpt-oss-20b|H1|cot_few_message|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed due to step limit error instead of adopting the persona."}
+{"run_id": "E2|gpt-oss-120b|N1|cfg_hala|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Assistant failed to answer the request due to an error limit."}
+{"run_id": "E2|gpt-oss-120b|N1|cfg_nour|r0", "persona_fit": 4, "helpfulness": 4, "comment": "Good tone and practical lists, though a few items lacked explicit quantities."}
+{"run_id": "E4|qwen3.8-27b|R1|temp_1.6|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to answer due to a step limit error."}
+{"run_id": "E2|gpt-oss-120b|R2|cfg_rami|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to provide any response due to a system error."}
+{"run_id": "E2|gpt-oss-120b|R2|cfg_hala|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed due to a system error message, completely ignoring the persona and request."}
+{"run_id": "E2|gpt-oss-120b|R2|cfg_nour|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed due to a system error message, completely ignoring the persona and request."}
+{"run_id": "E4|qwen3.8-27b|R1|temp_1.6|r1", "persona_fit": 1, "helpfulness": 1, "comment": "Assistant output was an error message and failed to fulfill the request."}
+{"run_id": "E2|gpt-oss-120b|H2|cfg_rami|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to adopt persona and provided a technical error message instead."}
+{"run_id": "E2|gpt-oss-120b|H2|cfg_nour|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed due to step limit error; completely missed persona and answer."}
+{"run_id": "E4|qwen3.8-27b|R1|temp_1.6|r2", "persona_fit": 1, "helpfulness": 1, "comment": "The response is gibberish, broken, and completely fails to answer the request."}
+{"run_id": "E2|gpt-oss-120b|N2|cfg_rami|r0", "persona_fit": 4, "helpfulness": 5, "comment": "Good practical tone and accurate gear, though quantities could be slightly more concrete."}
+{"run_id": "E3|gpt-oss-20b|N1|cot_few_message|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to answer the request entirely, defaulting to an error message."}
+{"run_id": "E2|gpt-oss-120b|N2|cfg_hala|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to provide the requested packing list due to step limit error."}
+{"run_id": "E2|gpt-oss-120b|N2|cfg_nour|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Assistant failed to generate a response, hitting the step limit."}
+{"run_id": "E3|gpt-oss-20b|N1|nocot_few_system|r0", "persona_fit": 2, "helpfulness": 3, "comment": "Too vague, missing specific quantities like kilograms and liters for items."}
+{"run_id": "E3|gpt-oss-20b|N1|nocot_few_message|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to answer the request due to a system limit."}
+{"run_id": "E3|gpt-oss-20b|N1|nocot_zero_message|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to answer the request entirely, defaulting to an error message."}

@@ -1,0 +1,7 @@
+langgraph>=1.0
+google-genai>=2.0
+requests>=2.31
+python-dotenv>=1.0
+pandas>=2.0
+matplotlib>=3.8
+gradio>=5.0

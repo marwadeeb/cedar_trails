@@ -1,0 +1,128 @@
+{"run_id": "E1|qwen3.8-27b|R1|base|r0", "persona_fit": 5, "helpfulness": 5, "comment": "Warm tone, vivid imagery, perfectly tailored for beginners with a great practical tip."}
+{"run_id": "E1|gemini-3.5-flash-lite|R1|base|r0", "persona_fit": 4, "helpfulness": 5, "comment": "Warm, accurate, and practical, though the intro could be slightly more conversational."}
+{"run_id": "E1|qwen3.8-27b|R2|base|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to adopt persona and provided a canned error message instead of help."}
+{"run_id": "E1|gemini-3.5-flash-lite|R2|base|r0", "persona_fit": 3, "helpfulness": 5, "comment": "Good recommendations and stats, but missed the friendly conversational tone of Rami."}
+{"run_id": "E1|qwen3.8-27b|H1|base|r0", "persona_fit": 5, "helpfulness": 5, "comment": "Flawless adherence to strict persona, technical vocabulary, and correct safety-first verdict."}
+{"run_id": "E1|gpt-oss-20b|H2|base|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to adopt persona and gave a system error instead of an answer."}
+{"run_id": "E1|qwen3.8-27b|H2|base|r0", "persona_fit": 2, "helpfulness": 3, "comment": "Violated the strict safety rule (gave GO instead of NO-GO for family May hike)."}
+{"run_id": "E1|qwen3.8-27b|N1|base|r0", "persona_fit": 5, "helpfulness": 5, "comment": "Precise quantities, practical tone, dry humor, perfectly matches persona and helpfulness criteria."}
+{"run_id": "E1|qwen3.8-27b|N2|base|r0", "persona_fit": 4, "helpfulness": 5, "comment": "Good practical tone, specific gear, and solid winter Mount Lebanon advice."}
+{"run_id": "E4|qwen3.8-27b|R1|temp_0.0|r0", "persona_fit": 4, "helpfulness": 5, "comment": "Warm tone, vivid scenery, and very practical tips for beginners."}
+{"run_id": "E4|qwen3.8-27b|R1|temp_0.0|r1", "persona_fit": 4, "helpfulness": 5, "comment": "Warm, encouraging tone with great specific details and a practical tip."}
+{"run_id": "E4|qwen3.8-27b|R1|temp_0.0|r2", "persona_fit": 4, "helpfulness": 5, "comment": "Warm tone and practical details, though slightly more conversational intro would help."}
+{"run_id": "E4|qwen3.8-27b|R1|temp_0.4|r0", "persona_fit": 2, "helpfulness": 3, "comment": "Missed the persona voice entirely, though the stats and tip were decent."}
+{"run_id": "E4|qwen3.8-27b|R1|temp_0.4|r1", "persona_fit": 4, "helpfulness": 4, "comment": "Warm, vivid tone with good practical advice, though slightly heavy on bullet points."}
+{"run_id": "E4|qwen3.8-27b|R1|temp_0.4|r2", "persona_fit": 3, "helpfulness": 5, "comment": "Good info, but lacked Rami's warm, conversational voice and vivid scenery."}
+{"run_id": "E4|gemini-3.5-flash-lite|R1|top_k_1|r1", "persona_fit": 3, "helpfulness": 4, "comment": "Good info, but missing Rami's warm, conversational intro and vivid scenery."}
+{"run_id": "E4|qwen3.8-27b|R1|temp_0.8|r0", "persona_fit": 5, "helpfulness": 5, "comment": "Warm, vivid tone perfectly matches Rami, and the trail recommendation is spot-on."}
+{"run_id": "E4|gemini-3.5-flash-lite|R1|top_k_1|r2", "persona_fit": 4, "helpfulness": 5, "comment": "Great tone and accurate trail info, though slightly brief on conversation."}
+{"run_id": "E4|qwen3.8-27b|R1|temp_0.8|r1", "persona_fit": 3, "helpfulness": 4, "comment": "Good info, but missing the warm, conversational intro and vivid scenery described in the persona."}
+{"run_id": "E4|gemini-3.5-flash-lite|R1|top_k_64|r1", "persona_fit": 2, "helpfulness": 3, "comment": "Too bullet-point heavy; missed the warm, conversational persona completely."}
+{"run_id": "E4|qwen3.8-27b|R1|temp_0.8|r2", "persona_fit": 2, "helpfulness": 3, "comment": "Too clinical, lacks the warm conversational persona, though trail stats are accurate."}
+{"run_id": "E4|qwen3.8-27b|R1|temp_1.2|r0", "persona_fit": 5, "helpfulness": 5, "comment": "Warm, encouraging tone with vivid scenery, accurate stats, and a practical tip."}
+{"run_id": "E4|qwen3.8-27b|R1|temp_1.2|r1", "persona_fit": 4, "helpfulness": 5, "comment": "Warm tone and accurate trail info, though slightly meta in the middle."}
+{"run_id": "E4|gemini-3.5-flash-lite|R1|top_k_400|r0", "persona_fit": 4, "helpfulness": 4, "comment": "Great tone and recommendation, though slightly brief on conversational warmth."}
+{"run_id": "E4|gemini-3.5-flash-lite|R1|top_k_400|r1", "persona_fit": 4, "helpfulness": 4, "comment": "Warm tone and good recommendation, though slightly light on conversational intro."}
+{"run_id": "E4|gemini-3.5-flash-lite|R1|top_k_400|r2", "persona_fit": 3, "helpfulness": 4, "comment": "Good info, but lacked Rami's warm, conversational intro and vivid imagery."}
+{"run_id": "E4|qwen3.8-27b|R1|temp_1.2|r2", "persona_fit": 5, "helpfulness": 5, "comment": "Warm tone, vivid imagery, great beginner-friendly advice tailored for October Shouf hiking."}
+{"run_id": "E3|gpt-oss-20b|H1|cot_zero_system|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Assistant failed due to step limit error and did not use the persona."}
+{"run_id": "E3|gpt-oss-20b|H1|cot_zero_message|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed due to step limit error instead of applying persona and evaluation."}
+{"run_id": "E3|gpt-oss-20b|H1|nocot_few_system|r0", "persona_fit": 5, "helpfulness": 3, "comment": "Strict persona followed well, but lacks local context for Lebanon trails."}
+{"run_id": "E3|gpt-oss-20b|H1|nocot_few_message|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Assistant failed due to step limit and did not use persona."}
+{"run_id": "E3|gpt-oss-20b|H1|nocot_zero_system|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to adopt persona and hit a technical step limit error."}
+{"run_id": "E3|gpt-oss-20b|H1|nocot_zero_message|r0", "persona_fit": 5, "helpfulness": 2, "comment": "Great persona adherence, but unhelpful due to missing regional knowledge."}
+{"run_id": "E4|qwen3.8-27b|R1|top_p_0.3|r0", "persona_fit": 4, "helpfulness": 5, "comment": "Warm, encouraging tone with great specific details and a practical tip."}
+{"run_id": "E4|qwen3.8-27b|R1|top_p_0.3|r1", "persona_fit": 5, "helpfulness": 5, "comment": "Warm, encouraging tone with vivid scenery, accurate stats, and a practical tip."}
+{"run_id": "E3|gpt-oss-20b|N1|cot_zero_system|r0", "persona_fit": 4, "helpfulness": 4, "comment": "Good practical tone, specific quantities, and concise checklist format."}
+{"run_id": "E4|qwen3.8-27b|R1|top_p_0.3|r2", "persona_fit": 4, "helpfulness": 5, "comment": "Warm, encouraging tone with great specific details, though slightly heavy on stats."}
+{"run_id": "E4|qwen3.8-27b|R1|presence_1.5|r0", "persona_fit": 4, "helpfulness": 5, "comment": "Warm tone with vivid imagery, accurate stats, and a very helpful practical tip."}
+{"run_id": "E4|qwen3.8-27b|R1|presence_1.5|r1", "persona_fit": 4, "helpfulness": 5, "comment": "Great advice, though the persona could be a bit warmer and more conversational."}
+{"run_id": "E4|qwen3.8-27b|R1|presence_1.5|r2", "persona_fit": 4, "helpfulness": 5, "comment": "Great tone, vivid imagery, and very practical advice for beginners."}
+{"run_id": "E4|qwen3.8-27b|R1|frequency_1.5|r0", "persona_fit": 4, "helpfulness": 5, "comment": "Warm tone and great recommendation, though slightly heavy on stats for a buddy."}
+{"run_id": "E4|qwen3.8-27b|R1|frequency_1.5|r1", "persona_fit": 4, "helpfulness": 4, "comment": "Warm tone and good details, though Falougha is technically Matn/Aley, not Shouf."}
+{"run_id": "E4|qwen3.8-27b|R1|frequency_1.5|r2", "persona_fit": 4, "helpfulness": 5, "comment": "Warm, encouraging tone with vivid imagery and great practical advice for beginners."}
+{"run_id": "E4|qwen3.8-27b|R1|max_tokens_150|r0", "persona_fit": 4, "helpfulness": 4, "comment": "Great warm tone and practical, but the response cut off abruptly."}
+{"run_id": "E4|qwen3.8-27b|R1|max_tokens_150|r1", "persona_fit": 3, "helpfulness": 4, "comment": "Good route and tone, but missing conversational paragraphs and practical tip."}
+{"run_id": "E4|qwen3.8-27b|R1|max_tokens_150|r2", "persona_fit": 2, "helpfulness": 3, "comment": "Too brief, misses the warm conversational tone and cuts off mid-sentence."}
+{"run_id": "E1|gpt-oss-20b|R1|base|r0", "persona_fit": 4, "helpfulness": 5, "comment": "Great tone and suggestions, though a bit more scenic painting would match the persona fully."}
+{"run_id": "E1|gpt-oss-120b|R1|base|r0", "persona_fit": 4, "helpfulness": 4, "comment": "Warm tone and practical advice, though a bit heavy on stats."}
+{"run_id": "E1|gpt-oss-120b|R2|base|r0", "persona_fit": 3, "helpfulness": 4, "comment": "Good tip and helpful alternatives, but tone was a bit too robotic initially."}
+{"run_id": "E1|gpt-oss-20b|R2|base|r0", "persona_fit": 4, "helpfulness": 5, "comment": "Great recommendation fitting the constraints, but slightly light on the requested vivid scenery."}
+{"run_id": "E1|gpt-oss-20b|H1|base|r0", "persona_fit": 5, "helpfulness": 4, "comment": "Precise tone and strict adherence to the safety-first NO-GO protocol."}
+{"run_id": "E1|gpt-oss-120b|H1|base|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed due to step limit error instead of adopting the persona."}
+{"run_id": "E1|gemini-3.5-flash-lite|H1|base|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Assistant failed due to step limit and did not use persona."}
+{"run_id": "E1|gpt-oss-20b|N1|base|r0", "persona_fit": 2, "helpfulness": 3, "comment": "Lacks specific quantities and concrete measurements; lists are too vague for the persona."}
+{"run_id": "E1|gpt-oss-120b|H2|base|r0", "persona_fit": 5, "helpfulness": 5, "comment": "Precise, strict, and properly structured according to all persona and safety rules."}
+{"run_id": "E4|qwen3.8-27b|R1|temp_1.6|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to provide a response, hitting an error limit instead."}
+{"run_id": "E1|gpt-oss-20b|N2|base|r0", "persona_fit": 5, "helpfulness": 5, "comment": "Precise quantities, practical gear, dry humor, and strict checklist formatting."}
+{"run_id": "E1|gemini-3.5-flash-lite|H2|base|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed due to step limit error; completely missed persona and answer."}
+{"run_id": "E3|gpt-oss-20b|R1|cot_few_system|r0", "persona_fit": 4, "helpfulness": 4, "comment": "Warm tone and good practical tip, though slightly too brief."}
+{"run_id": "E1|gpt-oss-120b|N1|base|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to provide any gear list due to step limit error."}
+{"run_id": "E1|gemini-3.5-flash-lite|N1|base|r0", "persona_fit": 5, "helpfulness": 5, "comment": "Excellent adherence to persona, concrete quantities, and practical gear list."}
+{"run_id": "E1|gemini-3.5-flash-lite|N2|base|r0", "persona_fit": 5, "helpfulness": 5, "comment": "Precise, practical, dry humor, and exact quantities matching the persona."}
+{"run_id": "E4|gemini-3.5-flash-lite|R1|top_k_1|r0", "persona_fit": 3, "helpfulness": 4, "comment": "Good info, but the tone is too structured and lacks Rami's warm conversational style."}
+{"run_id": "E1|gpt-oss-120b|N2|base|r0", "persona_fit": 4, "helpfulness": 5, "comment": "Good practical gear list, dry tone, minor quantity omissions."}
+{"run_id": "E4|gemini-3.5-flash-lite|R1|top_k_64|r0", "persona_fit": 4, "helpfulness": 5, "comment": "Warm tone and accurate trail info, though slightly brief on conversation."}
+{"run_id": "E3|gpt-oss-20b|R1|cot_few_message|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to provide an answer, citing a technical limitation."}
+{"run_id": "E4|gemini-3.5-flash-lite|R1|top_k_64|r2", "persona_fit": 4, "helpfulness": 5, "comment": "Warm, accurate, and practical, though missing a brief opening greeting."}
+{"run_id": "E3|gpt-oss-20b|R1|cot_zero_system|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Assistant completely failed the persona and refused a valid hike request."}
+{"run_id": "E2|gpt-oss-120b|R1|cfg_rami|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to provide an answer, citing a step limit error."}
+{"run_id": "E3|gpt-oss-20b|R1|cot_zero_message|r0", "persona_fit": 2, "helpfulness": 4, "comment": "Good recommendations, but lacks the warm, conversational Rami persona and vivid scenery."}
+{"run_id": "E2|gpt-oss-120b|R1|cfg_hala|r0", "persona_fit": 2, "helpfulness": 3, "comment": "Too clinical and bulleted; lacks Rami's warm, conversational trail-buddy storytelling voice."}
+{"run_id": "E2|gpt-oss-120b|R1|cfg_nour|r0", "persona_fit": 4, "helpfulness": 5, "comment": "Great tone and very helpful, though it leaned slightly into a list format."}
+{"run_id": "E3|gpt-oss-20b|R1|nocot_few_system|r0", "persona_fit": 3, "helpfulness": 4, "comment": "Good suggestions, but tone lacks Rami's warm, conversational storytelling style."}
+{"run_id": "E4|qwen3.8-27b|R1|temp_1.6|r1", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to provide an answer due to a system limit error."}
+{"run_id": "E2|gpt-oss-120b|H1|cfg_rami|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Assistant failed due to step limit error and did not use persona."}
+{"run_id": "E3|gpt-oss-20b|R1|nocot_few_message|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to provide a response, citing a step limit error."}
+{"run_id": "E3|gpt-oss-20b|R1|nocot_zero_system|r0", "persona_fit": 2, "helpfulness": 4, "comment": "Too dry and bullet-point heavy; missed the warm, conversational Rami persona."}
+{"run_id": "E4|qwen3.8-27b|R1|temp_1.6|r2", "persona_fit": 1, "helpfulness": 1, "comment": "Output is gibberish text with no actual content."}
+{"run_id": "E2|gpt-oss-120b|H1|cfg_hala|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed due to step limit error, completely ignoring persona and request."}
+{"run_id": "E3|gpt-oss-20b|R1|nocot_zero_message|r0", "persona_fit": 2, "helpfulness": 4, "comment": "Too brief, lacks Rami's warm conversational voice and vivid Lebanese scenery."}
+{"run_id": "E3|gpt-oss-20b|H1|cot_few_system|r0", "persona_fit": 5, "helpfulness": 4, "comment": "Strict tone and format met, but reasons lack specific regional trail data."}
+{"run_id": "E2|gpt-oss-120b|H1|cfg_nour|r0", "persona_fit": 2, "helpfulness": 1, "comment": "Incomplete response, cut off after the first reason."}
+{"run_id": "E3|gpt-oss-20b|H1|cot_few_message|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed due to step limit error instead of adopting the persona."}
+{"run_id": "E2|gpt-oss-120b|N1|cfg_rami|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to provide any gear list due to step limit error."}
+{"run_id": "E3|gpt-oss-20b|N1|cot_few_system|r0", "persona_fit": 4, "helpfulness": 4, "comment": "Good persona and lists, but lacks specific quantities for every item."}
+{"run_id": "E2|gpt-oss-120b|N1|cfg_hala|r0", "persona_fit": 5, "helpfulness": 5, "comment": "Precise quantities, dry humor, strictly adhered to the quartermaster persona and constraints."}
+{"run_id": "E2|gpt-oss-120b|N1|cfg_nour|r0", "persona_fit": 5, "helpfulness": 5, "comment": "Excellent adherence to persona constraints, precise quantities, and practical gear advice."}
+{"run_id": "E3|gpt-oss-20b|N1|cot_few_message|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to provide any gear list due to step limit error."}
+{"run_id": "E2|gpt-oss-120b|R2|cfg_rami|r0", "persona_fit": 2, "helpfulness": 3, "comment": "Missed persona tone and exceeded distance limit, but offered a good alternative."}
+{"run_id": "E3|gpt-oss-20b|N1|cot_zero_message|r0", "persona_fit": 2, "helpfulness": 3, "comment": "Missing concrete quantities for items and lacks the required dry humor."}
+{"run_id": "E3|gpt-oss-20b|N1|nocot_few_system|r0", "persona_fit": 2, "helpfulness": 3, "comment": "Lacks concrete quantities, dry humor, and specific gear names required by Nour's persona."}
+{"run_id": "E2|gpt-oss-120b|R2|cfg_hala|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed completely; gave an error message instead of adopting the persona or helping."}
+{"run_id": "E2|gpt-oss-120b|R2|cfg_nour|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed due to a technical error, completely ignoring persona and request."}
+{"run_id": "E2|gpt-oss-120b|H2|cfg_rami|r0", "persona_fit": 5, "helpfulness": 5, "comment": "Precise, strictly followed persona rules, delivered clear safety-first verdict."}
+{"run_id": "E3|gpt-oss-20b|N1|nocot_few_message|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to answer the request entirely, defaulting to an error message."}
+{"run_id": "E2|gpt-oss-120b|H2|cfg_hala|r0", "persona_fit": 2, "helpfulness": 2, "comment": "Verdict violates the safety-first NO-GO rule; lacks strict tone."}
+{"run_id": "E3|gpt-oss-20b|N1|nocot_zero_system|r0", "persona_fit": 4, "helpfulness": 4, "comment": "Good tone and lists, but lacks specific quantities for items like food."}
+{"run_id": "E3|gpt-oss-20b|N1|nocot_zero_message|r0", "persona_fit": 3, "helpfulness": 4, "comment": "Good gear list, but lacked concrete quantities and dry humor in the note."}
+{"run_id": "E2|gpt-oss-120b|H2|cfg_nour|r0", "persona_fit": 2, "helpfulness": 3, "comment": "Violated the NO-GO leaning rule for missing/risky family data; used exclamation marks? No, but tone is too soft."}
+{"run_id": "E2|gpt-oss-120b|N2|cfg_rami|r0", "persona_fit": 5, "helpfulness": 5, "comment": "Precise quantities, practical tone, excellent winter Mount Lebanon gear list."}
+{"run_id": "E2|gpt-oss-120b|N2|cfg_hala|r0", "persona_fit": 4, "helpfulness": 5, "comment": "Good tone and practical lists, though could use slightly more concrete quantities."}
+{"run_id": "E2|gpt-oss-120b|N2|cfg_nour|r0", "persona_fit": 4, "helpfulness": 4, "comment": "Good tone and specific list, though quantities are slightly sparse."}
+{"run_id": "E5|gpt-oss-20b|R2|budget_off|r0", "persona_fit": 2, "helpfulness": 4, "comment": "Too dry and bullet-pointed; missed Rami's warm, conversational scenery-painting tone."}
+{"run_id": "E5|qwen3.8-27b|R1|instr_full|r0", "persona_fit": 3, "helpfulness": 4, "comment": "Good info, but lacked the warm, conversational Rami persona style."}
+{"run_id": "E5|gpt-oss-20b|R2|budget_off|r1", "persona_fit": 2, "helpfulness": 2, "comment": "Repeated the same section twice and gave a bizarre tip about cedar spray."}
+{"run_id": "E5|qwen3.8-27b|R1|instr_minimal|r0", "persona_fit": 5, "helpfulness": 5, "comment": "Warm, encouraging tone with vivid imagery, accurate beginner trail, and a great practical tip."}
+{"run_id": "E5|gpt-oss-20b|R2|budget_on|r0", "persona_fit": 2, "helpfulness": 4, "comment": "Too clinical and bulleted; lacked Rami's warm, conversational trail-buddy voice."}
+{"run_id": "E5|qwen3.8-27b|R2|instr_full|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed completely, giving a system error instead of adopting the persona."}
+{"run_id": "E5|gpt-oss-20b|R2|budget_on|r1", "persona_fit": 3, "helpfulness": 5, "comment": "Good suggestions, but lacks the warm, conversational Rami persona and vivid scenery."}
+{"run_id": "E5|qwen3.8-27b|R2|instr_minimal|r0", "persona_fit": 4, "helpfulness": 5, "comment": "Great recommendation and friendly tone, though slightly dense in formatting."}
+{"run_id": "E5|gpt-oss-20b|H2|budget_off|r0", "persona_fit": 2, "helpfulness": 1, "comment": "Incomplete response, but used technical vocabulary and proper structure."}
+{"run_id": "E5|qwen3.8-27b|H1|instr_full|r0", "persona_fit": 5, "helpfulness": 5, "comment": "Flawless adherence to Hala's strict safety persona, precise vocabulary, and correct NO-GO verdict."}
+{"run_id": "E5|gpt-oss-20b|H2|budget_off|r1", "persona_fit": 2, "helpfulness": 1, "comment": "Cut off mid-sentence, incorrect verdict for May family hike, poor formatting."}
+{"run_id": "E5|qwen3.8-27b|H1|instr_minimal|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed due to step limit error; completely missed persona and answer."}
+{"run_id": "E5|qwen3.8-27b|H2|instr_full|r0", "persona_fit": 2, "helpfulness": 4, "comment": "Verdict is GO violating safety rule; tone lacks strictness and has exclamation marks."}
+{"run_id": "E5|gpt-oss-20b|H2|budget_on|r0", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to adopt persona and provided a system error message instead of an answer."}
+{"run_id": "E5|qwen3.8-27b|H2|instr_minimal|r0", "persona_fit": 2, "helpfulness": 4, "comment": "Too enthusiastic, lacks strict ranger tone, but gives good factual hiking details."}
+{"run_id": "E5|qwen3.8-27b|N1|instr_full|r0", "persona_fit": 4, "helpfulness": 4, "comment": "Good dry tone and concrete specs, though some items lack exact quantities."}
+{"run_id": "E5|qwen3.8-27b|N1|instr_minimal|r0", "persona_fit": 2, "helpfulness": 3, "comment": "Lacks concrete quantities and weights per item; too vague for Nour."}
+{"run_id": "E5|qwen3.8-27b|N2|instr_full|r0", "persona_fit": 4, "helpfulness": 5, "comment": "Good dry tone, precise items, and accurate winter specs."}
+{"run_id": "E5|qwen3.8-27b|N2|instr_minimal|r0", "persona_fit": 5, "helpfulness": 5, "comment": "Pragmatic, concise, precise quantities, and captures the dry gear-quartermaster persona perfectly."}
+{"run_id": "E5|qwen3.8-27b|R2|budget_off|r0", "persona_fit": 4, "helpfulness": 5, "comment": "Great tone, vivid description, and very helpful tailored recommendation."}
+{"run_id": "E5|qwen3.8-27b|R2|budget_off|r1", "persona_fit": 5, "helpfulness": 5, "comment": "Perfect match to Rami's warm, expert persona with precise, tailored recommendations."}
+{"run_id": "E5|gpt-oss-20b|H2|budget_on|r1", "persona_fit": 1, "helpfulness": 1, "comment": "Failed to adopt persona and provided a system error instead of an answer."}
+{"run_id": "E5|qwen3.8-27b|R2|budget_on|r0", "persona_fit": 4, "helpfulness": 5, "comment": "Great recommendation and stats, but formatting felt a bit too rigid for Rami."}
+{"run_id": "E5|qwen3.8-27b|R2|budget_on|r1", "persona_fit": 3, "helpfulness": 5, "comment": "Accurate and helpful, but missing Rami's warm, conversational persona voice."}
+{"run_id": "E5|qwen3.8-27b|H2|budget_off|r0", "persona_fit": 2, "helpfulness": 4, "comment": "Gave a GO instead of strict NO-GO for family May hike."}
+{"run_id": "E5|qwen3.8-27b|H2|budget_off|r1", "persona_fit": 2, "helpfulness": 4, "comment": "Gave a GO verdict incorrectly for a strict safety ranger persona."}
